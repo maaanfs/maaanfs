@@ -19,7 +19,6 @@ Passionate about industry advancements
 📧 Email: manfredors23@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/manfredoramsol/
 
-Excited about contributing data-driven success to your team! 🚀✨
-
-
 Looking forward to exciting collaborations and challenging projects! 🚀✨
+
+[![maaanfs's github stats](https://github-readme-stats.vercel.app/api?username=maaanfs)
